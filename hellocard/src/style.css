@@ -1,0 +1,41 @@
+.imgclass{
+
+    border-radius: 50%;
+    width:8%;
+} 
+
+
+.contentdiv{
+    display: inline-table;
+    
+   
+
+}
+
+.graycolor{
+    background-color: 	rgb(245,245,245);
+    width:33%;
+}
+.contentdiv img {
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: #555;
+  }
+  
+  .contentdiv h3 {
+    position: relative;
+    /* top: 18px; */
+    left: 114px;
+    bottom: 80px;
+  }
+  .alignment{
+    position: relative;
+    top: -90px;
+    left: 111px;
+  }
+.bbtn{
+  position: relative;
+    left: 230px;
+    top: -37px;
+}
