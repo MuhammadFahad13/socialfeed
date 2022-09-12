@@ -39,3 +39,13 @@
     left: 230px;
     top: -37px;
 }
+
+button{
+    border: 0px;
+    background-color: white;
+    color: #5B626A;
+    font-size: large;
+    padding: 5px;
+    padding: 5px 54px;
+    cursor: pointer;
+}
